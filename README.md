@@ -1,5 +1,5 @@
 # bias-variance-tradeoff
-An explanation of the Bias Variance Tradeoff in Machine Learning ->  https://medium.com/@mlvictoriamaslova/bias-variance-trade-off-theory-and-practice-2a19fa73116b
+An explanation of the Bias Variance Tradeoff in Machine Learning -> [Article on Medium](https://medium.com/@mlvictoriamaslova/bias-variance-trade-off-theory-and-practice-2a19fa73116b)
 
 In this article I explained the following points:
 
@@ -16,5 +16,5 @@ In this article I explained the following points:
 6. Total Error
 
 You will find two practices in the following files:
-1. First method to find bias and variance with polynomial function -> (polynomial-function-for-bias-variance-tradeoff.ipynb)
-2. Using sklearn library -> (bias-variance-tradeoff.ipynb)
+1. First method to find bias and variance with polynomial function -> [Practice 1](https://github.com/VictoriaMaslova/bias-variance-tradeoff/blob/main/polynomial-function-for-bias-variance-tradeoff.ipynb)
+2. Using sklearn library -> [Practice 2](https://github.com/VictoriaMaslova/bias-variance-tradeoff/blob/main/bias-variance-tradeoff.ipynb)
